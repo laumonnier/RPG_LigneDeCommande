@@ -1,0 +1,10 @@
+
+node_modules/
+*.js
+*.log
+*.txt
+*.md
+*.json
+*.csv
+*.xlsx
+*.xls
